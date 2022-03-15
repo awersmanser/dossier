@@ -1642,6 +1642,7 @@ body {
   -ms-flex-align: center;
   align-items: center;
   transform: scale(0.1);
+  opacity: 0.1;
 }
 
 .cart {
