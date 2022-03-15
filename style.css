@@ -1561,8 +1561,8 @@ body {
   transform-style: preserve-3d;
   -webkit-transform: rotateY(0.01deg);
   transform: rotateY(0.01deg);
-  -webkit-animation: jump 2s ease-in-out infinite;
-  animation: jump 2s ease-in-out infinite;
+  -webkit-animation: jump 20s ease-in-out infinite;
+  animation: jump 20s ease-in-out infinite;
 }
 
 @-webkit-keyframes jump {
